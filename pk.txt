@@ -1,2 +1,0 @@
-simple command file
-simple command file in new line
